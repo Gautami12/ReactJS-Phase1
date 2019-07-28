@@ -1,0 +1,11 @@
+/*.legend{
+    size: 60px;
+    height: 50px;
+    width: 30px;
+    margin-top: 240px;
+    z-index: -1;
+}*/
+.img{
+    z-index: -1;
+    margin-top: 150px;
+}
