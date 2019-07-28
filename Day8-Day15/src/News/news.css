@@ -1,0 +1,28 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    width: 30px;
+    height: 35px;
+    padding: 2px;
+}
+
+.flex-child >h1{
+    text-size-adjust: 10px;
+    padding: 10px;
+    margin: 20px;
+    text-emphasis-style: unset;
+    font-size: 20px;
+    
+}
+.flex-child >img{
+block-size: 40px;
+border-block-color: black;
+margin: 10px;
+display: block;
+border: 10px;
+    
+}
+
+.events{
+    margin-top: 70px;
+}
