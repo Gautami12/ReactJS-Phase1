@@ -1,0 +1,44 @@
+/*.span-parent{
+    flex:display;
+    flex-direction: row;
+    
+
+}
+.span-parent > div > li{
+justify-content: flex-end;
+  display: block;
+  float: right ;
+  width: 100px;
+  height: 200px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+
+}*/
+.parent-nav1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    
+    
+
+}
+.parent-nav1 > div {
+    margin-left: 200px;
+    margin-right: 30px;
+    border-block: 30px;
+
+}
+.parent-nav1 > div > p {
+    flex-wrap: wrap;
+    display: block;
+    font-size: 20px;
+    border: black;
+    margin-block: 20px;
+    font: 200px;
+}
+
+.an{
+    margin-top: -115px;
+}
