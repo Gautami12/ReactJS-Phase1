@@ -1,0 +1,27 @@
+
+
+.parent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: flex-start;
+    justify-content: space-between;
+}
+
+.imagetag {
+    display: flex;
+    margin: 5px;
+    height: 400px;
+    width: 400px;
+
+    
+}
+
+.header{
+text-align: center;
+}
+
+.dreamrun {
+    margin-left: 240px;
+}
